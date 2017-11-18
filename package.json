@@ -1,13 +1,13 @@
 {
   "name": "brewster",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "pintapoff@GitHub",
   "license": "MIT",
-  "description": "",
+  "description": "Simple controller for maintaining a stable brewing temperature (for example in an isolated box..refrigerator or similar)",
   "dependencies": {
     "tellstick-local-server": "^0.1.1"
   }

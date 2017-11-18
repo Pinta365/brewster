@@ -16,6 +16,7 @@ function main() {
 	controller.tick();	
 }
 
+/* Some basic initialization before starting the main loop... probably */
 function init() {
 
 	if(running) {
